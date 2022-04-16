@@ -38,6 +38,7 @@ UUT结构如下：
 
  ![image](https://user-images.githubusercontent.com/28834684/163667082-07d7613b-c693-4710-ad7b-08e60a7f7057.png)
 ![image](https://user-images.githubusercontent.com/28834684/163667083-fb478456-c22e-4ab3-b852-1b31057139f3.png)
+
 选择所需添加的库函数后，会弹出配置参数对话框，支持执行，还原，参数配置，其中的数组变量取自所属UUT的Variables
 5 测试小项编辑
 双击或选择右侧【编辑】按钮，可编辑指定的测试小项
