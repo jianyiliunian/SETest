@@ -130,7 +130,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{4AE214B7-34E5-4B4B-88F6-2ECFBF636974}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Array-1.0.1.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Array-1.0.1.lvlibp</Property>
@@ -140,7 +140,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D4C601D1-B2AC-4F38-AD79-997B670811C4}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{024339C2-06BF-4C75-B80E-AF5EB74CC939}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Array.lvlib</Property>
